@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package com.phonegap.hellophonegap;
+package com.phonegap.ManusaAndroid;
 
 public final class R {
     public static final class attr {

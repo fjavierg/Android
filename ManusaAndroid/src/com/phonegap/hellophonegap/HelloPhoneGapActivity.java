@@ -3,6 +3,7 @@ package com.phonegap.hellophonegap;
 
 import android.app.Activity;
 import android.os.Bundle;
+import com.phonegap.ManusaAndroid.R;
 import org.apache.cordova.*;
 
 public class HelloPhoneGapActivity extends DroidGap
